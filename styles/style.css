@@ -1,0 +1,6 @@
+header {
+    background-color:bisque;
+    height: 3rem;
+    display: flex;
+    flex-direction: row;
+}
